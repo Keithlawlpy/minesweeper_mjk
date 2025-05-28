@@ -1,6 +1,6 @@
 
-#ifndef WHACKAMOLESFML_GAME_H
-#define WHACKAMOLESFML_GAME_H
+#ifndef MINESWEEPER_MJK_GAME_H
+#  define MINESWEEPER_MJKL_GAME_H
 
 #include <SFML/Graphics.hpp>
 
@@ -40,4 +40,4 @@ class Game
 
 };
 
-#endif // WHACKAMOLESFML_GAME_H
+#endif // MINESWEEPER_MJK_GAME_H
