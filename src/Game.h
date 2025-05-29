@@ -3,6 +3,7 @@
 #define MINESWEEPER_MJKL_GAME_H
 
 #include <SFML/Graphics.hpp>
+#include "GameObject.h"
 
 class Game
 {
