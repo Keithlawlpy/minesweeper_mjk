@@ -1,6 +1,6 @@
 
 #ifndef MINESWEEPER_MJK_GAME_H
-#  define MINESWEEPER_MJKL_GAME_H
+#define MINESWEEPER_MJKL_GAME_H
 
 #include <SFML/Graphics.hpp>
 
