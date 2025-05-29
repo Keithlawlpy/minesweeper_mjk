@@ -2,6 +2,8 @@
 #include "Game.h"
 #include <iostream>
 
+//:D
+//:3
 Game::Game(sf::RenderWindow& game_window)
   : window(game_window)
 {
